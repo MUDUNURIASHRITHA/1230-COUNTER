@@ -1,0 +1,24 @@
+.b{
+    background-color: black;
+}
+.head{
+    font-size:90px;
+    font-weight:900;
+    font-family:roboto;
+    color:brown;
+    margin-left:32%;
+}
+.para{
+    font-size:80px;
+    color:aqua;
+    margin-left:49%;
+}
+.btn{
+    background-color:pink;
+    color:blue;
+    width:80px;
+    height:30px;
+}
+.h{
+    margin-left:40%;
+}
